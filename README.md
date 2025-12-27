@@ -6,4 +6,4 @@ I plan to update and improve it when time allows. (maybe yes maybe no - it's not
 
 Thanks for reading — enjoy exploring the tool!
 
-📝 Note: Usage instructions are available in the README.md file (if I remember correctly — I don't always do!).
+📝 Note: Usage instructions are available in the README.md file inside the zip folder (if I remember correctly — I don't always do!).
